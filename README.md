@@ -56,6 +56,8 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+## Base de datos
+Es necesario crear una base de datos en el motor de postgresql con nombre postgres, una vez creada al ejecutar el proyecto con npm run start:dev se crearán automáticamente las entidades definidas.
 
 ## Deployment
 
